@@ -36,3 +36,5 @@
    - Replacement
    - Uniform
    - Order
+# STG QR
+This is an APP installed permanently on a tab at STG Office for generating QR for employees to scan for check-in and check-out purposes and it is mainly for the attendance.
