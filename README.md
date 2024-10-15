@@ -28,6 +28,7 @@
      - Unpaid Leave
    - Increment
    - Warning Letter
+   - Client Incharge Setup
 3. Client Side
    - Cleaner Attendance
    - Cleaner OT
@@ -38,3 +39,29 @@
    - Order
 # STG QR
 This is an APP installed permanently on a tab at STG Office for generating QR for employees to scan for check-in and check-out purposes and it is mainly for the attendance.
+# STG Official
+1. Login
+2. Logout
+3. Change Password
+4. Home Page
+   1. Office Staff Page
+      1. Check In
+      2. Check Out
+      3. Leave
+      4. Claim
+      5. OT
+   3. Executive Page
+      1. Cleaner
+         1. Claims
+         2. OT
+         3. Leave
+         4. Attendance   
+      2. Self
+         1. Leave
+         2. Claim
+         3. OT
+         4. Check-In
+         5. Check-Out
+      3. Client
+         1. Order
+         2. Product Stock
