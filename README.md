@@ -9,8 +9,14 @@
    - HR Setup
    - Approver Management
    - Approval Management
+   - Product Management
+   - Client Management
 2. HR
    - Payroll
+     - Salary
+     - Deduction
+     - Allowance
+     - Process (Periodically)
    - Attendance
    - Claims
    - OT
@@ -21,4 +27,12 @@
      - Annual Leave
      - Unpaid Leave
    - Increment
-   - 
+   - Warning Letter
+3. Client Side
+   - Cleaner Attendance
+   - Cleaner OT
+   - Cleaner Claim
+   - Cleaner Leave
+   - Replacement
+   - Uniform
+   - Order
