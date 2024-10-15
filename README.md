@@ -11,6 +11,7 @@
    - Approval Management
    - Product Management
    - Client Management
+   - Leave Type Management
 2. HR
    - Payroll
      - Salary
@@ -29,6 +30,7 @@
    - Increment
    - Warning Letter
    - Client Incharge Setup
+   - Leave Entitlement
 3. Client Side
    - Cleaner Attendance
    - Cleaner OT
