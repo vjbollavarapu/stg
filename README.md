@@ -3,6 +3,7 @@
 # STG Web Application
 **Modules**
 1. Management
+   - Company Profile
    - Employee Management
    - Parameter Management
    - User Management
